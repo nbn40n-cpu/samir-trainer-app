@@ -1,0 +1,10 @@
+﻿build/
+.dart_tool/
+android/.gradle/
+ios/.symlinks/
+*.iml
+*.lock
+*.log
+*.py
+android_backup/
+samir_app_new/
